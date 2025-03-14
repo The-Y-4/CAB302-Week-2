@@ -1,5 +1,3 @@
-
-
 public class Main {
     // Static list of users, acting as a database
     private static ArrayList<User> users = new ArrayList<>();
